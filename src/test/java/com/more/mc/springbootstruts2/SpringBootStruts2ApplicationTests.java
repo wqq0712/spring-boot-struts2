@@ -11,6 +11,7 @@ public class SpringBootStruts2ApplicationTests {
 
 	@Test
 	public void contextLoads() {
+	  System.out.println("abcdefg");
 	}
 
 }
