@@ -11,7 +11,7 @@ public class SpringBootStruts2ApplicationTests {
 
 	@Test
 	public void contextLoads() {
-	  System.out.println("我爱你");
+	  System.out.println("i love you...我爱你");
 	}
 
 }
