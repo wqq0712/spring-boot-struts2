@@ -9,4 +9,6 @@
 			<result name="list">/plf/list.jsp</result>
 		</action>
 	</package>
+	
+	<!-- new haha -->
 </struts>
