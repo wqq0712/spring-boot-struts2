@@ -25,7 +25,7 @@ public class TestAction extends ActionSupport
   {
     System.out.println("-----------------------------------------------------");
     return "list";
-  }
+  }  
   */
   
   public String query() throws IOException{

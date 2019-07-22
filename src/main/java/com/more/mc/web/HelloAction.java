@@ -12,5 +12,5 @@ package com.more.mc.web;
 
 public class HelloAction
 {
-
+//
 }
