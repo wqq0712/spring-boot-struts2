@@ -46,6 +46,7 @@ public class WebXmlConfig {
 		frgb.setUrlPatterns(list);
 		frgb.addInitParameter("config", "struts-default.xml,struts-plugin.xml,struts.xml,struts-sysmain.xml");
 		//list.add("/*");
+	//list.add("/*");
 		return frgb;
 	}
 }

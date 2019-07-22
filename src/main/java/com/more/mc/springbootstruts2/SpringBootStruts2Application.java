@@ -11,7 +11,7 @@ public class SpringBootStruts2Application {
 	public static void main(String[] args) {
 	  //启动
 		SpringApplication.run(SpringBootStruts2Application.class, args);
-	//启动22
+	//启动2233
 	}
 
 }
