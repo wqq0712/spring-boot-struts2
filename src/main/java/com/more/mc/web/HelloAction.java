@@ -13,4 +13,7 @@ package com.more.mc.web;
 public class HelloAction
 {
 //
+  public static void main(String args[]) {
+    
+  }
 }
