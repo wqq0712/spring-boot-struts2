@@ -29,7 +29,7 @@ public class TestAction extends ActionSupport
   */
   
   public String query() throws IOException{
-    System.out.println("---------------------------aaa--------------------------");
+    System.out.println("---------------------------aaabbb--------------------------");
     return "list";
   }
   
